@@ -64,34 +64,34 @@
 
 
 		<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-validator</artifactId>
-			<version>5.4.1.Final</version>
-		</dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-validator</artifactId>
+	<version>5.4.1.Final</version>
+</dependency>
 
 
 
-		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
-		<dependency>
-		    <groupId>org.springframework.data</groupId>
-		    <artifactId>spring-data-jpa</artifactId>
-		    <version>1.11.3.RELEASE</version>
-		</dependency>
+	<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
+	<dependency>
+		<groupId>org.springframework.data</groupId>
+		<artifactId>spring-data-jpa</artifactId>
+		<version>1.11.3.RELEASE</version>
+	</dependency>
 
 
-		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
-		<dependency>
-		    <groupId>log4j</groupId>
-		    <artifactId>log4j</artifactId>
-		    <version>1.2.17</version>
-		</dependency>
+	<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+	<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.17</version>
+	</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.mindrot/jbcrypt -->
-		<dependency>
-		    <groupId>org.mindrot</groupId>
-		    <artifactId>jbcrypt</artifactId>
-		    <version>0.4</version>
-		</dependency>
+	<!-- https://mvnrepository.com/artifact/org.mindrot/jbcrypt -->
+	<dependency>
+		<groupId>org.mindrot</groupId>
+		<artifactId>jbcrypt</artifactId>
+		<version>0.4</version>
+	</dependency>
 
 	</dependencies>
   <build>
