@@ -1,2 +1,2 @@
-# warsztat6
-twitter
+# Dev-workshops_06
+Twitter
